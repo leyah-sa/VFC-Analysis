@@ -19,4 +19,11 @@ L'analyse temporelle utilise une méthode géométrique ou statistique pour étu
 L'analyse basée sur la fréquence mesure la fluctuation périodique des périodes R-R en effectuant une spectroscopie à transformée de Fourier, à l'aide d'un logiciel tel que Kubios (Kubios®, Finlande).
 Cette méthode d'analyse mesure la puissance spectrale en déterminant l'aire sous la courbe pour une fréquence donnée. Il permet de distinguer la bande basse fréquence (LF = 0,04 à 0,15 Hz) qui est essentiellement le reflet de l'activité sympathique, et la bande haute fréquence (HF = 0,15 à 0,50 Hz) qui est un indicateur de l'activité parasympathique.
 
+# Conclusion
+L'étude du VFC permet une évaluation indirecte de l'activité du système nerveux végétatif, chez des sujets sains ainsi que chez des patients souffrant notamment de maladies cardiovasculaires et métaboliques.
+Le VFC s’est révélé intéressant dans la classification du stress, de la fatigue et de l’inconfort ainsi que dans l’analyse de la récupération des athlètes. Le VFC est un marqueur utile en prévention primaire, notamment pour les personnes présentant un profil de risque lié à leurs antécédents personnels et familiaux et/ou à un mode de vie inapproprié. 
+Un enregistrement périodique court du VFC permet de détecter le plus tôt possible les dysfonctionnements neurovégétatifs chez les sujets à risque cardiovasculaire et métabolique.
+Des études complémentaires sont nécessaires pour enrichir les connaissances sur les relations entre le VFC et les troubles physiologiques, la physiopathologie des maladies, notamment cardiovasculaires, et l'action des traitements.
+
+
 
